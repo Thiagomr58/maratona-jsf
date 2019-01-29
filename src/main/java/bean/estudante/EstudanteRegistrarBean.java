@@ -6,8 +6,8 @@ import java.io.Serializable;
 @Named
 public class EstudanteRegistrarBean implements Serializable {
 
-    private String nome = "Miguel";
-    private String sobrenome = "sobrenome";
+    private String nome = "João";
+    private String sobrenome = "Silva";
     private double nota1;
     private double nota2;
     private double nota3 = 10;
